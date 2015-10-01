@@ -1,6 +1,6 @@
 'use strict';
 
-/* LAB 1: A Trip to Woodland Park Zoo
+/* LAB 1: A Trip to Woodland Park Zoo test
 
  Welcome to Lab 1 :)
 
